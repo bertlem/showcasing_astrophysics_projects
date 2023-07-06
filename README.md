@@ -18,4 +18,4 @@ TBD: Locating the spiral arms of the Milky Way using t-sne + HDBSCAN as a cluste
 
 ### MilkyWay_warp_spiral_arms_test
 
-TBD: Testing the t-sne + HDBSCAN combination on mock data
+Testing the t-sne + HDBSCAN combination on mock data
