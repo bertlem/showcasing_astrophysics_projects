@@ -13,7 +13,7 @@ The Milky Way disk is not flat but slightly warped. To derive the exact shape of
 
 ### MilkyWay_spiral_arms
 
-TBD: Locating the spiral arms of the Milky Way using t-sne + HDBSCAN as a clustering algorithm.
+Locating the spiral arms of the Milky Way using t-sne + HDBSCAN as a clustering algorithm.
 
 
 ### MilkyWay_warp_spiral_arms_test
